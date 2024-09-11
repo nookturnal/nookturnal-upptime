@@ -5,16 +5,18 @@ repo: nookturnal-upptime # The name of this repository
 sites:
   - name: Nookturnal Lab
     url: https://www.nookturnal.com/
-  - name: Property Portal
-    url: https://www.propertyportal.ph/
-  - name: PointUp Real Estate
-    url: https://pointuprealestate.com/
-  - name: Taskforge Global
-    url: https://www.taskforgeglobal.com/
+  - name: StaffConnect Solutions
+    url: https://www.staffconnect.ph/
   - name: Kataluxxe
     url: https://kataluxxe.com/
   - name: Zugbu Aesthetic
-    url: https://www.zugbuaesthetic.com/   
+    url: https://www.zugbuaesthetic.com/
+  - name: Taskforge Global
+    url: https://www.taskforgeglobal.com/
+  - name: PointUp Real Estate
+    url: https://pointuprealestate.com/
+  - name: Property Portal
+    url: https://www.propertyportal.ph/
 
 status-website:
   cname: status.nookturnal.com
