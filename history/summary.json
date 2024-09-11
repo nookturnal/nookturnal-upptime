@@ -1,25 +1,5 @@
 [
   {
-    "name": "Property Portal",
-    "url": "https://www.propertyportal.ph",
-    "icon": "https://icons.duckduckgo.com/ip3/www.propertyportal.ph.ico",
-    "slug": "property-portal",
-    "status": "up",
-    "uptime": "43.80%",
-    "uptimeDay": "43.80%",
-    "uptimeWeek": "43.80%",
-    "uptimeMonth": "43.80%",
-    "uptimeYear": "43.80%",
-    "time": 486,
-    "timeDay": 486,
-    "timeWeek": 486,
-    "timeMonth": 486,
-    "timeYear": 486,
-    "dailyMinutesDown": {
-      "2024-09-11": 40
-    }
-  },
-  {
     "name": "PointUp Real Estate",
     "url": "https://pointuprealestate.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pointuprealestate.com.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 195,
-    "timeWeek": 195,
-    "timeMonth": 195,
-    "timeYear": 195,
+    "time": 249,
+    "timeDay": 249,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 605,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   }
 ]
