@@ -17,6 +17,8 @@ sites:
     url: https://pointuprealestate.com/
   - name: Property Portal
     url: https://www.propertyportal.ph/
+  - name: Moorgate Lending
+    url: https://www.moorgateph.com/
 
 status-website:
   cname: status.nookturnal.com
