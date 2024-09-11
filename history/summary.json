@@ -1,20 +1,20 @@
 [
   {
     "name": "Property Portal",
-    "url": "https://www.nookturnal.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.nookturnal.com.ico",
+    "url": "https://www.propertyportal.ph",
+    "icon": "https://icons.duckduckgo.com/ip3/www.propertyportal.ph.ico",
     "slug": "property-portal",
     "status": "up",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "uptime": "8.23%",
+    "uptimeDay": "8.23%",
+    "uptimeWeek": "8.23%",
+    "uptimeMonth": "8.23%",
+    "uptimeYear": "8.23%",
+    "time": 426,
+    "timeDay": 426,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2024-09-11": 40
     }
