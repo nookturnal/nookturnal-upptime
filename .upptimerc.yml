@@ -3,12 +3,20 @@ owner: Nookturnal # Your GitHub organization or username, where this repository 
 repo: nookturnal-upptime # The name of this repository
 
 sites:
+  - name: Nookturnal Lab
+    url: https://www.nookturnal.com/
   - name: Property Portal
     url: https://www.propertyportal.ph/
   - name: PointUp Real Estate
     url: https://pointuprealestate.com/
   - name: Taskforge Global
     url: https://www.taskforgeglobal.com/
+  - name: Kataluxxe
+    url: https://kataluxxe.com/
+  - name: Zugbu Aesthetic
+    url: https://www.zugbuaesthetic.com/
+  - name: Moorgate Lending
+    url: https://www.moorgateph.com/    
 
 status-website:
   cname: status.nookturnal.com
@@ -16,8 +24,10 @@ status-website:
   name: Nookturnal Lab
   logoUrl: https://cloud-1de12d.b-cdn.net/media/original/31d188d960df32513b2beb3c6c707491.png
   introTitle: "This is a status page for all our projects."
-  # introMessage: He who works with his hands is a laborer.
+  introMessage: ———————————————
   navbar:
+    - title: Home
+      href: https://www.nookturnal.com/
     - title: Status
       href: /
   metaTags:
