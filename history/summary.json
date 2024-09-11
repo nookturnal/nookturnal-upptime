@@ -1,8 +1,8 @@
 [
   {
     "name": "Property Portal",
-    "url": "https://www.propertyportal.ph",
-    "icon": "https://icons.duckduckgo.com/ip3/www.propertyportal.ph.ico",
+    "url": "https://www.pnookturnal.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.pnookturnal.com.ico",
     "slug": "property-portal",
     "status": "down",
     "uptime": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 37
     }
   }
 ]
