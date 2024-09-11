@@ -6,9 +6,9 @@ sites:
   - name: Property Portal
     url: https://www.propertyportal.ph
   - name: PointUp Real Estate
-    url: https://www.propertyportal.ph
+    url: https://pointuprealestate.com/
   - name: Taskforge Global
-    url: https://www.propertyportal.ph
+    url: https://www.taskforgeglobal.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
