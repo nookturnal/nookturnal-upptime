@@ -18,7 +18,7 @@ sites:
   - name: Property Portal
     url: https://www.propertyportal.ph/
   - name: Moorgate Lending
-    url: https://www.moorgateph.com/
+    url: https://www.google.com/
 
 status-website:
   cname: status.nookturnal.com
