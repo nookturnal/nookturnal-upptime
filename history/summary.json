@@ -58,18 +58,20 @@
     "url": "https://www.zugbuaesthetic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zugbuaesthetic.com.ico",
     "slug": "zugbu-aesthetic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 253,
-    "timeWeek": 397,
-    "timeMonth": 330,
-    "timeYear": 330,
-    "dailyMinutesDown": {}
+    "time": 341,
+    "timeDay": 423,
+    "timeWeek": 421,
+    "timeMonth": 341,
+    "timeYear": 341,
+    "dailyMinutesDown": {
+      "2024-09-28": 0
+    }
   },
   {
     "name": "Taskforge Global",
