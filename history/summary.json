@@ -24,19 +24,19 @@
     "url": "https://www.staffconnect.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/www.staffconnect.ph.ico",
     "slug": "staff-connect-solutions",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 221,
-    "timeWeek": 860,
-    "timeMonth": 428,
-    "timeYear": 394,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 390,
+    "timeDay": 192,
+    "timeWeek": 779,
+    "timeMonth": 419,
+    "timeYear": 390,
     "dailyMinutesDown": {
-      "2024-11-10": 0
+      "2024-11-10": 28
     }
   },
   {
