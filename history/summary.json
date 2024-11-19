@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 308,
-    "timeDay": 188,
+    "time": 306,
+    "timeDay": 200,
     "timeWeek": 283,
-    "timeMonth": 296,
-    "timeYear": 308,
+    "timeMonth": 295,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2024-09-28": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 378,
-    "timeDay": 266,
-    "timeWeek": 262,
-    "timeMonth": 423,
-    "timeYear": 378,
+    "time": 375,
+    "timeDay": 200,
+    "timeWeek": 268,
+    "timeMonth": 418,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2024-11-10": 28
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 160,
-    "timeWeek": 179,
-    "timeMonth": 148,
-    "timeYear": 135,
+    "time": 134,
+    "timeDay": 103,
+    "timeWeek": 174,
+    "timeMonth": 146,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -62,18 +62,20 @@
     "url": "https://www.zugbuaesthetic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zugbuaesthetic.com.ico",
     "slug": "zugbu-aesthetic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 255,
-    "timeWeek": 260,
-    "timeMonth": 309,
-    "timeYear": 317,
-    "dailyMinutesDown": {}
+    "time": 312,
+    "timeDay": 146,
+    "timeWeek": 245,
+    "timeMonth": 304,
+    "timeYear": 312,
+    "dailyMinutesDown": {
+      "2024-11-19": 0
+    }
   },
   {
     "name": "Taskforge Global",
@@ -86,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 1404,
-    "timeWeek": 1299,
-    "timeMonth": 1277,
-    "timeYear": 1157,
+    "time": 1158,
+    "timeDay": 1235,
+    "timeWeek": 1287,
+    "timeMonth": 1271,
+    "timeYear": 1158,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 406,
-    "timeWeek": 152,
+    "time": 213,
+    "timeDay": 126,
+    "timeWeek": 148,
     "timeMonth": 184,
-    "timeYear": 214,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 1513,
-    "timeWeek": 312,
-    "timeMonth": 381,
-    "timeYear": 545,
+    "time": 551,
+    "timeDay": 1070,
+    "timeWeek": 448,
+    "timeMonth": 412,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   }
 ]
