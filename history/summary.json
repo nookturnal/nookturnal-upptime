@@ -62,9 +62,9 @@
     "url": "https://www.zugbuaesthetic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zugbuaesthetic.com.ico",
     "slug": "zugbu-aesthetic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -74,6 +74,7 @@
     "timeMonth": 337,
     "timeYear": 322,
     "dailyMinutesDown": {
+      "2024-12-20": 0,
       "2024-11-19": 17
     }
   },
