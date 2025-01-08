@@ -13,7 +13,7 @@
     "time": 322,
     "timeDay": 147,
     "timeWeek": 256,
-    "timeMonth": 354,
+    "timeMonth": 361,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2024-09-28": 16
@@ -24,19 +24,19 @@
     "url": "https://www.staffconnect.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/www.staffconnect.ph.ico",
     "slug": "staff-connect-solutions",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 376,
-    "timeDay": 186,
-    "timeWeek": 273,
-    "timeMonth": 403,
-    "timeYear": 376,
+    "time": 375,
+    "timeDay": 204,
+    "timeWeek": 268,
+    "timeMonth": 406,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2025-01-08": 0,
+      "2025-01-08": 7,
       "2024-11-10": 28
     }
   },
@@ -54,7 +54,7 @@
     "time": 134,
     "timeDay": 168,
     "timeWeek": 136,
-    "timeMonth": 134,
+    "timeMonth": 133,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,7 @@
     "time": 323,
     "timeDay": 280,
     "timeWeek": 240,
-    "timeMonth": 331,
+    "timeMonth": 335,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2025-01-04": 18,
@@ -95,7 +95,7 @@
     "time": 1216,
     "timeDay": 1448,
     "timeWeek": 1352,
-    "timeMonth": 1339,
+    "timeMonth": 1340,
     "timeYear": 1216,
     "dailyMinutesDown": {}
   },
@@ -113,7 +113,7 @@
     "time": 207,
     "timeDay": 150,
     "timeWeek": 123,
-    "timeMonth": 160,
+    "timeMonth": 161,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -131,7 +131,7 @@
     "time": 480,
     "timeDay": 123,
     "timeWeek": 112,
-    "timeMonth": 277,
+    "timeMonth": 283,
     "timeYear": 480,
     "dailyMinutesDown": {}
   }
