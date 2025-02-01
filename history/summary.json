@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kataluxxe.com.ico",
     "slug": "kataluxxe",
     "status": "down",
-    "uptime": "97.52%",
+    "uptime": "97.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "49.48%",
-    "uptimeMonth": "88.37%",
-    "uptimeYear": "97.52%",
+    "uptimeWeek": "45.66%",
+    "uptimeMonth": "87.50%",
+    "uptimeYear": "97.33%",
     "time": 199,
     "timeDay": 0,
     "timeWeek": 1520,
     "timeMonth": 487,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-02-01": 46,
+      "2025-02-01": 431,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -110,9 +110,9 @@
     "url": "https://pointuprealestate.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pointuprealestate.com.ico",
     "slug": "point-up-real-estate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -121,7 +121,9 @@
     "timeWeek": 125,
     "timeMonth": 167,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-01": 0
+    }
   },
   {
     "name": "Property Portal",
