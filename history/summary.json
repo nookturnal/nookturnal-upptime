@@ -52,11 +52,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zugbuaesthetic.com.ico",
     "slug": "zugbu-aesthetic",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "84.22%",
     "uptimeMonth": "96.32%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 346,
     "timeDay": 455,
     "timeWeek": 678,
@@ -95,9 +95,9 @@
     "url": "https://www.kayamusicstudio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kayamusicstudio.com.ico",
     "slug": "kaya-music-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -106,7 +106,9 @@
     "timeWeek": 1296,
     "timeMonth": 1323,
     "timeYear": 1323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-09": 0
+    }
   },
   {
     "name": "Property Portal",
