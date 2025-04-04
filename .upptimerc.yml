@@ -23,8 +23,8 @@ status-website:
   favicon: https://cloud-1de12d.b-cdn.net/media/original/31d188d960df32513b2beb3c6c707491.png
   name: Nookturnal Lab
   logoUrl: https://cloud-1de12d.b-cdn.net/media/original/31d188d960df32513b2beb3c6c707491.png
-  introTitle: "This page displays the uptime status of our projects."
-  introMessage: —————————
+ # introTitle: "This page displays the uptime status of our projects."
+ # introMessage: —————————
   navbar:
     - title: Home
       href: https://www.nookturnal.com/
