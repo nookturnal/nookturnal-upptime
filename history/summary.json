@@ -58,18 +58,20 @@
     "url": "https://www.taskforgeglobal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.taskforgeglobal.com.ico",
     "slug": "taskforge-global",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1245,
-    "timeDay": 1265,
-    "timeWeek": 1228,
-    "timeMonth": 1264,
+    "timeDay": 1174,
+    "timeWeek": 1210,
+    "timeMonth": 1258,
     "timeYear": 1245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "KAYA Music Studio",
