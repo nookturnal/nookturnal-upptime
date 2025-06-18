@@ -79,18 +79,20 @@
     "url": "https://www.kayamusicstudio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kayamusicstudio.com.ico",
     "slug": "kaya-music-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1307,
-    "timeDay": 1471,
-    "timeWeek": 1283,
-    "timeMonth": 1299,
-    "timeYear": 1307,
-    "dailyMinutesDown": {}
+    "time": 1301,
+    "timeDay": 1070,
+    "timeWeek": 1206,
+    "timeMonth": 1279,
+    "timeYear": 1301,
+    "dailyMinutesDown": {
+      "2025-06-18": 0
+    }
   },
   {
     "name": "Property Portal",
