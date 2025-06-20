@@ -79,9 +79,9 @@
     "url": "https://www.kayamusicstudio.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kayamusicstudio.com.ico",
     "slug": "kaya-music-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "46.78%",
+    "uptimeDay": "80.26%",
     "uptimeWeek": "84.22%",
     "uptimeMonth": "96.37%",
     "uptimeYear": "99.01%",
@@ -91,6 +91,7 @@
     "timeMonth": 1238,
     "timeYear": 1289,
     "dailyMinutesDown": {
+      "2025-06-20": 0,
       "2025-06-19": 819,
       "2025-06-18": 771
     }
