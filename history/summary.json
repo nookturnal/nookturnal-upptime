@@ -58,18 +58,20 @@
     "url": "https://www.taskforgeglobal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.taskforgeglobal.com.ico",
     "slug": "taskforge-global",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 188,
-    "timeWeek": 739,
-    "timeMonth": 550,
-    "timeYear": 1053,
-    "dailyMinutesDown": {}
+    "time": 1068,
+    "timeDay": 123,
+    "timeWeek": 654,
+    "timeMonth": 536,
+    "timeYear": 1050,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Moorgate Lending",
@@ -112,17 +114,19 @@
     "url": "https://www.topnotchreviewcenter.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.topnotchreviewcenter.com.ico",
     "slug": "topnotch-real-estate-review-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 96,
-    "timeWeek": 434,
-    "timeMonth": 687,
-    "timeYear": 811,
-    "dailyMinutesDown": {}
+    "time": 809,
+    "timeDay": 111,
+    "timeWeek": 396,
+    "timeMonth": 670,
+    "timeYear": 809,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
