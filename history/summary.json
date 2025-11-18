@@ -58,19 +58,19 @@
     "url": "https://www.taskforgeglobal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.taskforgeglobal.com.ico",
     "slug": "taskforge-global",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.98%",
-    "time": 1064,
-    "timeDay": 143,
-    "timeWeek": 555,
-    "timeMonth": 514,
-    "timeYear": 1045,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "88.80%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.97%",
+    "time": 1065,
+    "timeDay": 349,
+    "timeWeek": 612,
+    "timeMonth": 533,
+    "timeYear": 1046,
     "dailyMinutesDown": {
-      "2025-11-18": 80
+      "2025-11-18": 161
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://www.propertyportal.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/www.propertyportal.ph.ico",
     "slug": "property-portal",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "95.21%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.99%",
-    "time": 629,
-    "timeDay": 138,
-    "timeWeek": 251,
-    "timeMonth": 385,
-    "timeYear": 650,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.97%",
+    "time": 631,
+    "timeDay": 368,
+    "timeWeek": 345,
+    "timeMonth": 410,
+    "timeYear": 651,
     "dailyMinutesDown": {
-      "2025-11-18": 69
+      "2025-11-18": 150
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://www.topnotchreviewcenter.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.topnotchreviewcenter.com.ico",
     "slug": "topnotch-real-estate-review-center",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
-    "time": 811,
-    "timeDay": 663,
-    "timeWeek": 577,
-    "timeMonth": 699,
-    "timeYear": 811,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "90.38%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.96%",
+    "time": 812,
+    "timeDay": 726,
+    "timeWeek": 617,
+    "timeMonth": 710,
+    "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-11-18": 57
+      "2025-11-18": 138
     }
   }
 ]
