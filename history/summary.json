@@ -14,7 +14,7 @@
     "timeDay": 475,
     "timeWeek": 312,
     "timeMonth": 371,
-    "timeYear": 694,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 777,
     "timeWeek": 368,
     "timeMonth": 593,
-    "timeYear": 848,
+    "timeYear": 849,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 557,
     "timeWeek": 344,
     "timeMonth": 431,
-    "timeYear": 848,
+    "timeYear": 849,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,17 @@
     "url": "https://www.taskforgeglobal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.taskforgeglobal.com.ico",
     "slug": "taskforge-global",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "62.17%",
-    "uptimeWeek": "94.60%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "99.75%",
-    "time": 903,
-    "timeDay": 538,
-    "timeWeek": 432,
-    "timeMonth": 669,
-    "timeYear": 752,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "43.45%",
+    "uptimeWeek": "91.92%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "99.69%",
+    "time": 902,
+    "timeDay": 570,
+    "timeWeek": 458,
+    "timeMonth": 674,
+    "timeYear": 751,
     "dailyMinutesDown": {
       "2025-11-18": 161,
       "2025-12-12": 45,
@@ -77,7 +77,7 @@
       "2025-12-15": 183,
       "2026-02-04": 53,
       "2026-03-11": 22,
-      "2026-05-30": 544
+      "2026-05-30": 814
     }
   },
   {
@@ -107,13 +107,13 @@
     "uptime": "83.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.33%",
+    "uptimeMonth": "82.95%",
     "uptimeYear": "71.50%",
     "time": 555,
     "timeDay": 1021,
     "timeWeek": 481,
     "timeMonth": 403,
-    "timeYear": 391,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2025-11-18": 150,
       "2026-05-06": 241,
@@ -229,7 +229,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.topnotchreviewcenter.com.ico",
     "slug": "topnotch-real-estate-review-center",
     "status": "up",
-    "uptime": "92.10%",
+    "uptime": "92.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -238,7 +238,7 @@
     "timeDay": 1814,
     "timeWeek": 692,
     "timeMonth": 378,
-    "timeYear": 470,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2025-11-18": 138,
       "2026-01-22": 244,
