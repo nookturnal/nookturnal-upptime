@@ -58,17 +58,17 @@
     "url": "https://www.taskforgeglobal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.taskforgeglobal.com.ico",
     "slug": "taskforge-global",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 913,
-    "timeDay": 981,
-    "timeWeek": 388,
-    "timeMonth": 715,
-    "timeYear": 757,
+    "time": 911,
+    "timeDay": 590,
+    "timeWeek": 365,
+    "timeMonth": 698,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-11-18": 161,
       "2025-12-12": 45,
@@ -76,7 +76,8 @@
       "2025-12-14": 139,
       "2025-12-15": 183,
       "2026-02-04": 53,
-      "2026-03-11": 22
+      "2026-03-11": 22,
+      "2026-05-30": 0
     }
   },
   {
@@ -106,7 +107,7 @@
     "uptime": "83.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.00%",
+    "uptimeMonth": "80.48%",
     "uptimeYear": "71.50%",
     "time": 555,
     "timeDay": 1021,
