@@ -4,18 +4,20 @@
     "url": "https://www.nookturnal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nookturnal.com.ico",
     "slug": "nookturnal-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 597,
     "timeDay": 309,
     "timeWeek": 329,
     "timeMonth": 361,
     "timeYear": 693,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-02": 3
+    }
   },
   {
     "name": "StaffConnect Solutions",
@@ -44,7 +46,7 @@
     "uptime": "83.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.65%",
+    "uptimeMonth": "87.26%",
     "uptimeYear": "71.50%",
     "time": 556,
     "timeDay": 1089,
@@ -166,7 +168,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.topnotchreviewcenter.com.ico",
     "slug": "topnotch-real-estate-review-center",
     "status": "up",
-    "uptime": "92.14%",
+    "uptime": "92.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
