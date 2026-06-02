@@ -7,16 +7,14 @@ sites:
     url: https://www.nookturnal.com/
   - name: StaffConnect Solutions
     url: https://www.staffconnect.ph/
-  - name: Zugbu Aesthetic
-    url: https://www.zugbuaesthetic.com/
-  - name: Taskforge Global
-    url: https://www.taskforgeglobal.com/
-  - name: Moorgate Lending
-    url: https://www.moorgateph.com/
   - name: Property Portal
     url: https://www.propertyportal.ph/
   - name: Topnotch Real Estate Review Center
     url: https://www.topnotchreviewcenter.com/
+  - name: Moorgate Lending
+    url: https://www.moorgateph.com/
+  - name: Zugbu Aesthetic
+    url: https://www.zugbuaesthetic.com/
 
 status-website:
   cname: status.nookturnal.com
