@@ -5,21 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nookturnal.com.ico",
     "slug": "nookturnal-lab",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.94%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.89%",
     "time": 602,
     "timeDay": 363,
     "timeWeek": 416,
     "timeMonth": 387,
-    "timeYear": 653,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2026-06-02": 256,
       "2026-06-06": 84,
       "2026-06-24": 128,
-      "2026-07-24": 1
+      "2026-07-24": 125
     }
   },
   {
@@ -27,21 +27,21 @@
     "url": "https://www.staffconnect.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/www.staffconnect.ph.ico",
     "slug": "staff-connect-solutions",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "91.32%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.94%",
     "time": 736,
-    "timeDay": 440,
-    "timeWeek": 479,
-    "timeMonth": 412,
-    "timeYear": 813,
+    "timeDay": 483,
+    "timeWeek": 489,
+    "timeMonth": 417,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2026-06-06": 80,
       "2026-06-24": 123,
-      "2026-07-24": 1
+      "2026-07-24": 125
     }
   },
   {
@@ -231,21 +231,21 @@
     "url": "https://www.moorgateph.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.moorgateph.com.ico",
     "slug": "moorgate-lending",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "91.34%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.92%",
     "time": 572,
-    "timeDay": 421,
-    "timeWeek": 453,
-    "timeMonth": 406,
+    "timeDay": 494,
+    "timeWeek": 474,
+    "timeMonth": 414,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2026-06-06": 75,
       "2026-06-24": 118,
-      "2026-07-24": 1
+      "2026-07-24": 125
     }
   },
   {
@@ -253,21 +253,21 @@
     "url": "https://www.zugbuaesthetic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zugbuaesthetic.com.ico",
     "slug": "zugbu-aesthetic",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.94%",
     "time": 726,
-    "timeDay": 469,
-    "timeWeek": 470,
-    "timeMonth": 417,
-    "timeYear": 796,
+    "timeDay": 498,
+    "timeWeek": 480,
+    "timeMonth": 421,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2026-06-06": 70,
       "2026-06-24": 114,
-      "2026-07-24": 0
+      "2026-07-24": 125
     }
   }
 ]
