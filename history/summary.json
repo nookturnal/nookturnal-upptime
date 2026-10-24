@@ -53,16 +53,16 @@
     "url": "https://www.propertyportal.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/www.propertyportal.ph.ico",
     "slug": "property-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "86.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.05%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "71.44%",
-    "time": 442,
-    "timeDay": 687,
-    "timeWeek": 795,
-    "timeMonth": 692,
+    "time": 443,
+    "timeDay": 494,
+    "timeWeek": 745,
+    "timeMonth": 680,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2025-11-18": 150,
@@ -171,7 +171,8 @@
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1095,
-      "2026-10-22": 297
+      "2026-10-22": 297,
+      "2026-10-24": 0
     }
   },
   {
