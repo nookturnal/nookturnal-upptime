@@ -14,7 +14,7 @@
     "timeDay": 307,
     "timeWeek": 239,
     "timeMonth": 307,
-    "timeYear": 510,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2026-06-02": 256,
       "2026-06-06": 84,
@@ -39,7 +39,7 @@
     "timeDay": 203,
     "timeWeek": 235,
     "timeMonth": 355,
-    "timeYear": 617,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2026-06-06": 80,
       "2026-06-24": 123,
@@ -53,17 +53,17 @@
     "url": "https://www.propertyportal.ph/",
     "icon": "https://icons.duckduckgo.com/ip3/www.propertyportal.ph.ico",
     "slug": "property-portal",
-    "status": "up",
-    "uptime": "86.41%",
-    "uptimeDay": "48.37%",
+    "status": "down",
+    "uptime": "86.42%",
+    "uptimeDay": "98.00%",
     "uptimeWeek": "80.86%",
-    "uptimeMonth": "95.60%",
+    "uptimeMonth": "95.59%",
     "uptimeYear": "71.13%",
-    "time": 449,
-    "timeDay": 659,
-    "timeWeek": 616,
-    "timeMonth": 686,
-    "timeYear": 459,
+    "time": 447,
+    "timeDay": 660,
+    "timeWeek": 599,
+    "timeMonth": 676,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2025-11-18": 150,
       "2026-05-06": 241,
@@ -174,7 +174,8 @@
       "2026-10-22": 297,
       "2026-10-24": 633,
       "2026-10-25": 255,
-      "2026-10-26": 743
+      "2026-10-26": 743,
+      "2026-10-27": 0
     }
   },
   {
@@ -183,7 +184,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.topnotchreviewcenter.com.ico",
     "slug": "topnotch-real-estate-review-center",
     "status": "up",
-    "uptime": "94.05%",
+    "uptime": "94.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -192,7 +193,7 @@
     "timeDay": 329,
     "timeWeek": 330,
     "timeMonth": 420,
-    "timeYear": 664,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2025-11-18": 138,
       "2026-01-22": 244,
@@ -249,7 +250,7 @@
     "timeDay": 279,
     "timeWeek": 281,
     "timeMonth": 368,
-    "timeYear": 535,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2026-06-06": 75,
       "2026-06-24": 118,
@@ -272,7 +273,7 @@
     "timeDay": 248,
     "timeWeek": 249,
     "timeMonth": 349,
-    "timeYear": 606,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2026-06-06": 70,
       "2026-06-24": 114,
