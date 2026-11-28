@@ -4,13 +4,13 @@
     "url": "https://www.nookturnal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nookturnal.com.ico",
     "slug": "nookturnal-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 575,
+    "time": 573,
     "timeDay": 64,
     "timeWeek": 309,
     "timeMonth": 382,
@@ -21,7 +21,8 @@
       "2026-06-24": 128,
       "2026-07-24": 125,
       "2026-08-02": 77,
-      "2026-08-01": 6
+      "2026-08-01": 6,
+      "2026-11-28": 0
     }
   },
   {
@@ -54,7 +55,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.propertyportal.ph.ico",
     "slug": "property-portal",
     "status": "up",
-    "uptime": "86.76%",
+    "uptime": "86.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.52%",
